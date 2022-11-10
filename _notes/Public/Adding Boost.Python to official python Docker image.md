@@ -2,8 +2,7 @@
 title: Adding Boost.Python to official python Docker image
 feed: show
 date: 11-10-2022
-permalink: /adding-boost.python-to-official-docker-image
-format: list
+permalink: /adding-boost-python-to-official-docker-image.html
 ---
 
 #blog #docker #python
